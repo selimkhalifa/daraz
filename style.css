@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration:;
+    list-style: none;
+    font-family: serif;
+    box-sizing: border-box;
+}
+.i{
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+
+.container{
+    height: 600px;
+    width: 100%;
+    background: darkslateblue;
+}
+
+
+/*---------------------------------------*/
+.logo{
+    height: 100px;
+    width: 100%;
+}
+.logo img{
+    height: 90px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 4px;
+}
+
+
+/*---------------------------------------------*/
+.left_sec{
+    height: 400px;
+    width: 35%;
+    float: left;
+    padding-top: 35px;
+    padding-left: 50px
+}
+
+.left_sec p{
+   color: white;
+    
+}
+
+/*--------------------------------------------------*/
+
+.right_sec{
+    height: 400px;
+    width: 65%;
+/*    background: fuchsia;*/
+    display: inline-block;
+}
+
+
+/*-------------------------------*/
+.right_l{
+    height: 400px;
+    width: 40%;
+    background: #3e337e;
+    float: left;
+}
+.right_l p{
+    color: white;
+    margin-left: 90px;
+    margin-top: 10px;
+
+}
+.right_l img{
+    height: 65px;
+    margin-left: 30px;
+    margin-top: 60px;
+    
+}
+
+
+.right_l button{
+   width: 150px;
+    height: 40px;
+    margin-left: 90px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+.right_l a{
+   text-decoration: none;
+    color: white;
+}
+
+/*------------------------------------*/
+
+.right_r{
+    height: 400px;
+    width: 60%;
+    background: white;
+    display: inline-block;
+}
+.right_r h2{
+    color: #3e337e;
+    text-align: center;
+}
+.right_r p{
+    text-align: center;
+}
+.right_r p span a{
+    color: #1cef4c;
+}
+.right_r .input {
+    margin-left: 40px;
+    margin-top: 20px;
+    height: 30px;
+    width: 270px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.right_r .check {
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.right_r .f_pass{
+    margin-left: 40px;
+}
+.right_r button{
+    margin-left: 40px;
+    margin-top: 40px;
+    background: navy;
+    height: 30px;
+    width: 200px;
+    color: white;
+}
+
+
+/*---------------------------------------*/
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
